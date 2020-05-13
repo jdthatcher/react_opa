@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -35,4 +35,103 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #343a40!important;;
+  color: white;
+  font-size: x-small;
+  letter-spacing: 1px;
+}
+
+.navbar-brand,
+.display-4 {
+
+  font-family: 'DM Serif Text', serif;
+  letter-spacing: 1px;
+  font-size: 1.25rem;
+}
+
+
+h1, h2, h3, h4, h5, h6
+{
+  font-family: 'DM Serif Text', serif;
+}
+
+h1 {
+  font-size: 1.75em ;
+}
+
+h2 {
+  font-size: 1.50em ;
+}
+h3 {
+  font-size: 1.25em ;
+}
+h4 {
+  font-size: 1em ;
+}
+h5 {
+  font-size: .75em ;
+}
+h6 {
+  font-size: .50em ;
+}
+
+
+.nav-item {
+  font-size: small;
+  color: #cccccc;
+
+
+}
+
+.nav-item a {
+  font-size: small;
+  color: #cccccc;
+
+
+}
+
+.nav-item a:hover {
+  font-size: small;
+  color: #fff;
+  text-decoration: none;
+
+
+}
+
+.col-sm-4 {
+  padding-bottom: 20px;
+}
+
+.lead {
+  font-size: small;
+}
+
+.jumbotron {
+
+  background:rgba(255,255,255,.6);
+
+
+}
+body{
+
+  background-image: url("images/3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+.card {
+
+  background: rgba(255,255,255,.6);
+}
+
+ul {
+  list-style-type: none!important;
+  
 }
