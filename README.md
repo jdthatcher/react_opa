@@ -1,4 +1,4 @@
-![](/comsynth/react_opa/blob/master/screenshoot.png?raw=true)
+![](screenshoot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
